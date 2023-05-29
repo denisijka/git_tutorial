@@ -6,5 +6,5 @@ git pull
 git push
 
 
-
+Створити папку, і через термінал цієї папки ввести:
 git clone git@github.com:koliadaArt/Tow-Smart-WP.git .
