@@ -4,3 +4,7 @@ git add .
 git commit -m “first commit”
 git pull
 git push
+
+
+
+git clone git@github.com:koliadaArt/Tow-Smart-WP.git .
